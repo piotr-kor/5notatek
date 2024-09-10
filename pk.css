@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(229, 252, 253);
+}
+
+textarea {
+  width:100%;
+  border: none;
+  margin: 0px;
+}
